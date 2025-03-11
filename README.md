@@ -1,6 +1,6 @@
 Copyright Szabo Cristina-Andreea 2022-2023
 
-# Load Balancer System
+# Load Balancer
 
 ## Description
 This project implements a load balancing system using **Consistent Hashing**. The system simulates the distribution of key-value pairs across multiple servers to ensure balanced data allocation and efficient retrieval. The main components include server management, key-value storage, and dynamic server addition/removal.
